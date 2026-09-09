@@ -1,11 +1,13 @@
 # IoT-Lab-Exp1
 Internet of Things Laboratory Experiment 1
 ## Implementation Part D
+Done in simulated Arduino Uno R3 via TinkerCad.
 ### Connections
 LDR pin = A0, 
 LED pin = D9,
 Power sources = 5v & GND
 ## Implementation Part E
+Done in actual ESP32 Dev Module Board.
 ### Connections
 LDR pin = GPI0 34,
 LED pin = GPIO 4,
