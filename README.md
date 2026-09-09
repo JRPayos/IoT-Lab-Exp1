@@ -1,6 +1,11 @@
 # IoT-Lab-Exp1
 Internet of Things Laboratory Experiment 1
-## Implementation
+## Implementation Part D
+### Connections
+LDR pin = A0, 
+LED pin = D9,
+Power sources = 5v & GND
+## Implementation Part E
 ### Connections
 LDR pin = GPI0 34,
 LED pin = GPIO 4,
